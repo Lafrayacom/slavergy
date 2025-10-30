@@ -1,5 +1,5 @@
 export const TILES ={
-    DUROTAR: 'durotar'
+    MAPT: 'mapt'
 }
 
 export const SIZES = {
@@ -13,4 +13,10 @@ export const LAYERS = {
 
 export const SPRITES = {
     PLAYER: 'Player'
+}
+
+export const PARAMETRS = {
+    WARRIOR: 5.5,
+    ARCHER: 5.2,
+    MAGE: 4.7
 }

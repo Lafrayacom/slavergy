@@ -1,3 +1,3 @@
-import { Durotar } from "./durotar";
+import { Mapt } from "./mapt";
 
-export const scenes = [Durotar];
+export const scenes = [Mapt];
